@@ -8,7 +8,7 @@ https://100ciaencasa.blogspot.com.es/2014/02/circuitos-utiles-02-regulador-corri
 Este regulador puede controlar hasta una corriente de 900W, ideal para un taladro o un torno manual.
 
 <img src="img/Regulador-ac-4a.sch.svg" align="center">
-<img src="img/PCB.png" align="center">
+<img src="img/PCB.PNG" align="center">
 <img src="img/Regulador-ac-4a.png" align="center">
 <img src="img/Regulador-ac-4a-b.png" align="center">
 
